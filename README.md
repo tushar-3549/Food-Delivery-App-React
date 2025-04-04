@@ -1,3 +1,60 @@
+### Yammi! - Food Ordering App
+
+**Overview**
+
+Welcome to **Yammi!**, a modern food delivery web application built using React where users can explore delicious food, seamless experience to browse menus, place orders, ,customize orders, and enjoy fast delivery.
+
+### 🚀 Features
+
+- 🏠 Home, About, Menu, Mobile App, Contact Us sections
+- 🔐 User Authentication (Sign in, Login)
+- 🍕 Dynamic Menu Display (Salad, Rolls, Sandwich, Cake, Pasta, etc.)
+- ➕➖ Quantity Selector with Price Calculation
+- 🔍 Filter Menu Items by Category
+- 🛒 Add to Cart & Checkout
+- 📱 Yammi! Mobile App CTA
+- ⭐ Dish Ratings and Prices
+- 📦 Delivery & Pickup Options
+- 💬 Promo Code Support
+- 📞 Contact Info & Footer Section
+
+## 🧰 Tech Stack
+
+- Frontend: React, React Router, HTML, CSS
+- Responsive Design (Mobile & Desktop)
+
+**Deployment: Netlify (for frontend)**
+
+### ✅ Future Updates (Planned)
+
+- Firebase / Backend integration
+- Order tracking system
+- Real-time cart updates with localStorage
+- Admin panel to manage menu
+- Payment gateway integration
+
+### Install dependencies:
+
+`npm install  # or yarn install`
+
+**Start the development server:**
+
+`npm start  # or yarn start`
+
+Open `http://localhost:8000` in your browser.
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
